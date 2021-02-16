@@ -4,13 +4,13 @@
 <p align="left"> <a href="https://twitter.com/ed_coder_" target="blank"><img src="https://img.shields.io/twitter/follow/ed_coder_?logo=twitter&style=for-the-badge" alt="ed_coder_" /></a> </p>
 
 
-- 🌱 I’m currently learning **Java and spring**
+- 🌱 I’m currently learning **Java and Spring**
 
 - 📶 I'm interested in learning **IoT**
 
 - 👨‍💻 All of my projects are available at [https://eduardo-talavera.github.io/](https://eduardo-talavera.github.io/)
 
-- 💬 Ask me about **React, Vue, Webpack, Node & Express**
+- 💬 Ask me about **React, Vue, Webpack, Node and Express**
 
 - 📫 How to reach me **edtavera3@gmail.com**
 
